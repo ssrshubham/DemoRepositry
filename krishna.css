@@ -1,0 +1,87 @@
+h1{
+    color:rgb(43, 184, 15);
+    background-color: rgb(238, 189, 189);
+    height: 70px;
+    text-align:center;
+    margin: 10px;
+    border: 1px;
+    padding: 10px;
+}
+
+h3{
+    background-color: rgb(42, 167, 48);
+    color:rgba(218, 13, 13, 0.699);
+    text-align:center ;
+    padding: 10px;
+    margin: 5px;
+}
+
+li{
+    color: rgb(197, 32, 26);
+    background-color: rgb(116, 209, 155);
+    padding:2% ;
+    margin: auto;
+}
+
+#pone{
+    color:rgb(184, 126, 18) ;
+    background-color:rgb(112, 190, 190) ;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+    font-style:normal;
+    text-align:start ;
+    padding: 10px;
+}
+    
+#ptwo{
+    color:rgb(16, 77, 42) ;
+    background-color:sandybrown ;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+    text-align:start ;
+    padding: 10px;
+}
+
+#pthree{
+    color:rgb(233, 233, 227) ;
+    background-color:rgb(29, 163, 134) ;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
+    text-align:end ;
+    padding: 10px;
+}
+
+#pfour{
+    color:rgb(255, 252, 253);
+    background-color:rgb(53, 107, 168) ;
+    font-family: Arial, Helvetica, sans-serif ;
+    text-align:center ;
+    padding: 10px;
+}
+
+#pfifth{    
+    color:rgb(24, 44, 5) ;
+    background-color:rgb(190, 82, 82) ;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+    text-align:justify ;
+    padding: 10px;
+}
+
+#psix{    
+    color: hotpink;
+    background-color:khaki ;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+    text-align:right ;
+    padding: 10px;
+}
+
+#pseven{
+    color:rgb(239, 243, 16) ;
+    background-color:rgb(54, 98, 148)  ;
+    font-style:italic ;
+    text-align:left;
+    padding: 10px;
+}
+
+img{    
+    height: 30%;
+    width:  30%;
+    border-radius: 10%;
+}
